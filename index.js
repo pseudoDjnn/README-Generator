@@ -95,6 +95,7 @@ const questions = [
     type: "input",
     name: "contributors",
     message: "List contributors of this repo:",
+    default: "username",
   },
 ];
 

@@ -1,8 +1,5 @@
 # test
-  
-    [![MITlicense](https://img.shields.io/badge/license-MIT-blue.svg)](
-* [License] MIT
-)]
+  ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
@@ -15,9 +12,7 @@
     * [Tests](#tests)
     * [Contributors](#contributors)
     * [Questions](#questions)
-    * 
-* [License] MIT
-
+    * undefined
   
   # Installation (Dependencies) 💻
 
@@ -49,7 +44,7 @@
     
   ## Contributors
 
-    pseudoDjnn
+    username
 
     [test](https://github.com/test/)
 
@@ -57,5 +52,5 @@
 
     Wanting to understand more about this project repo?
 
-    Contact me at username@name.com
+    Contact me at test@username.com
 

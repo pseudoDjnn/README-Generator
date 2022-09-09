@@ -1,23 +1,27 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if (license !== "no valid license") {
-    return `
-    [![${license}license](https://img.shields.io/badge/license-${license}-blue.svg)](${renderLicenseLink(
-      license
-    )})]`;
-  } else {
-    return " ";
+  if (license !== "None") {
+    return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`;
   }
+  return "";
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license !== "None") {
-    return `\n* [License] ${license}\n`;
+  if (license === "BSD") {
+    return `http://www.linfo.org/bsdlicense.html`;
   }
-  return "";
+  if (license === "MIT") {
+    return `https://lbesson.mit-license.org/`;
+  }
+  if (license === "GPL") {
+    return `http://perso.crans.org/besson/LICENSE.html`;
+  }
+  if (license === "None") {
+    return "";
+  }
 }
 
 // TODO: Create a function that returns the license section of README
