@@ -7,12 +7,17 @@
   test
 
   ## Table of Contents
-  
+
     * [Installation](#installation)
+
     * [Usage](#usage)
+
     * [Tests](#tests)
+
     * [Contributors](#contributors)
+
     * [Questions](#questions)
+  
     * 
 * [License](#license)
 
