@@ -25,12 +25,12 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "None") {
     return `
-      ## License
+    ## License
 
-      Copyright @ ${license}.  All Rights Reserved.
+    Copyright @ ${license}.  All Rights Reserved.
 
-      Licensed under the ${license} license.
-      `;
+    Licensed under the ${license} license.
+    `;
   }
   return "";
 }
@@ -40,9 +40,6 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  ## License
-  ${renderLicenseSection(data.license)}
-
   ## Description
   * What is the purpose of this repository?:<br/>
   ${data.description}
@@ -50,11 +47,10 @@ function generateMarkdown(data) {
   ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contributors](#contributors)
     * [Tests](#tests)
+    * [Contributors](#contributors)
     * [Questions](#questions)
+    * ${renderLicenseLink(data.license)}
   
   # Installation (Dependencies) 💻
 
@@ -68,7 +64,26 @@ function generateMarkdown(data) {
 
     ${data.usage}
 
-    ${renderLicenseSection(data.license)}
+  ## Test
+
+    To run this program, use the following command(s):
+
+    ${data.test}
+
+  ## License
+  
+    ${renderLicenseLink(data.license)}
+    
+  ## Contributors
+
+    ${data.contributors}
+
+  ## Questions
+
+    Wanting to understand more about this project repo?
+
+    Contact me at ${data.email}
+
 `;
 }
 

@@ -23,6 +23,14 @@ const questions = [
     type: "input",
     name: "email",
     message: "What is your email address?",
+    validate: (emailvali) => {
+      if (emailvali) {
+        return true;
+      } else {
+        console.log("Please enter a valid email");
+        return false;
+      }
+    },
   },
   {
     type: "input",
@@ -71,6 +79,12 @@ const questions = [
     name: "dependencies",
     message: "List use of dependencies:",
     default: "npm i",
+  },
+  {
+    type: "input",
+    name: "test",
+    message: "CLI prompt to test:",
+    default: "npm t",
   },
   {
     type: "input",
