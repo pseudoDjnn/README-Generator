@@ -41,7 +41,8 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ## Description
-  * What is the purpose of this repository?:<br/>
+  * What is the purpose of this repository?<br/>
+
   ${data.description}
 
   ## Table of Contents
@@ -68,15 +69,19 @@ function generateMarkdown(data) {
 
     To run this program, use the following command(s):
 
+    \`\`\`
     ${data.test}
+    \`\`\`
 
   ## License
   
-    ${renderLicenseLink(data.license)}
+    ${renderLicenseSection(data.license)}
     
   ## Contributors
 
     ${data.contributors}
+
+    [${data.github}](https://github.com/${data.github}/)
 
   ## Questions
 
