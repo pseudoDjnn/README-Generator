@@ -1,5 +1,5 @@
 # test
-  ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT,Apache,LGPLv3-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
@@ -9,18 +9,11 @@
   ## Table of Contents
 
     * [Installation](#installation)
-
     * [Usage](#usage)
-
     * [Tests](#tests)
-
     * [Contributors](#contributors)
-
     * [Questions](#questions)
-  
-    * 
-* [License](#license)
-
+    * undefined
   
   # Installation (Dependencies) 💻
 
@@ -45,14 +38,14 @@
     
     ## License
 
-    Copyright @ MIT.  All Rights Reserved.
+    Copyright @ MIT,Apache,LGPLv3.  All Rights Reserved.
 
-    Licensed under the MIT license.
+    Licensed under the MIT,Apache,LGPLv3 license.
     
     
   ## Contributors
 
-    me
+    
 
     [test](https://github.com/test/)
 

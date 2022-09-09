@@ -10,10 +10,18 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license !== "None") {
-    return `\n* [License](#license)\n`;
+  if (license === "BSD") {
+    return `http://www.linfo.org/bsdlicense.html`;
   }
-  return "";
+  if (license === "MIT") {
+    return `https://lbesson.mit-license.org/`;
+  }
+  if (license === "GPL") {
+    return `http://perso.crans.org/besson/LICENSE.html`;
+  }
+  if (license === "None") {
+    return "";
+  }
 }
 
 // TODO: Create a function that returns the license section of README
@@ -44,15 +52,10 @@ function generateMarkdown(data) {
   ## Table of Contents
 
     * [Installation](#installation)
-
     * [Usage](#usage)
-
     * [Tests](#tests)
-
     * [Contributors](#contributors)
-
     * [Questions](#questions)
-  
     * ${renderLicenseLink(data.license)}
   
   # Installation (Dependencies) 💻
