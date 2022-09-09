@@ -41,6 +41,31 @@ const questions = [
       }
     },
   },
+  {
+    type: "checkbox",
+    name: "license",
+    message: "Please pick a license if any of the following are used:",
+    choices: [
+      "MIT",
+      "Other",
+      "GPLv2",
+      "Apache",
+      "GPLv3",
+      "BSD 3-clause",
+      "Unlicense",
+      "BSD 2-clause",
+      "LGPLv3",
+      "AGPv3",
+    ],
+    validate: (choiceInput) => {
+      if (choiceInput) {
+        return true;
+      } else {
+        console.log("Please enter a valid license");
+        return false;
+      }
+    },
+  },
 ];
 
 // TODO: Create a function to write README file
