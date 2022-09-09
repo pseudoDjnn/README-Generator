@@ -73,15 +73,13 @@ function generateMarkdown(data) {
     ${data.test}
     \`\`\`
 
-  ## License
-  
     ${renderLicenseSection(data.license)}
     
   ## Contributors
 
     ${data.contributors}
 
-    [${data.github}](https://github.com/${data.github}/)
+    [${data.username}](https://github.com/${data.username}/)
 
   ## Questions
 
