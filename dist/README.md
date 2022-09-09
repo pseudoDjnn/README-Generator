@@ -4,6 +4,15 @@
 * [License] MIT
 )]
 
+  ## License
+  
+      ## License
+
+      Copyright @ MIT.  All Rights Reserved.
+
+      Licensed under the MIT license.
+      
+
   ## Description
   * What is the purpose of this repository?:<br/>
   test
@@ -17,6 +26,22 @@
     * [Tests](#tests)
     * [Questions](#questions)
   
-  ## License
-  undefined
+  # Installation (Dependencies) 💻
 
+    To install dependencies,  run:
+
+    ```
+    npm i
+    ```
+
+  ## Usage
+
+    test
+
+    
+      ## License
+
+      Copyright @ MIT.  All Rights Reserved.
+
+      Licensed under the MIT license.
+      

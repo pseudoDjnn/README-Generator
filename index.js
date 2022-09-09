@@ -66,6 +66,22 @@ const questions = [
       }
     },
   },
+  {
+    type: "input",
+    name: "dependencies",
+    message: "List use of dependencies:",
+    default: "npm i",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "How can a user benefit from this repo?",
+  },
+  {
+    type: "input",
+    name: "contributors",
+    message: "List contributors of this repo:",
+  },
 ];
 
 // TODO: Create a function to write README file
