@@ -7,6 +7,7 @@
   test
 
   ## Table of Contents
+  
     * [Installation](#installation)
     * [Usage](#usage)
     * [Tests](#tests)
@@ -46,7 +47,7 @@
     
   ## Contributors
 
-    username
+    me
 
     [test](https://github.com/test/)
 
