@@ -12,7 +12,9 @@
     * [Tests](#tests)
     * [Contributors](#contributors)
     * [Questions](#questions)
-    * undefined
+    * 
+* [License](#license)
+
   
   # Installation (Dependencies) 💻
 
@@ -52,5 +54,5 @@
 
     Wanting to understand more about this project repo?
 
-    Contact me at test@username.com
+    Contact me at test@test.com
 
