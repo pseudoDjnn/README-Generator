@@ -80,13 +80,12 @@ function generateMarkdown(data) {
     
     ${data.username}
 
-    https://github.com/${data.username}/
     
-  ## Questions
-    
+    ## Questions
+
     Wanting to understand more about this repo?
     
-    Contact me at ${data.email}
+    Contact me at https://github.com/${data.username}/ or at ${data.email}
     
   ${renderLicenseSection(data.license)}
 `;

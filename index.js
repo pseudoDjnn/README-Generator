@@ -75,7 +75,7 @@ const questions = [
     type: "input",
     name: "dependencies",
     message: "List use of dependencies:",
-    default: "npm i inquirer",
+    default: "npm i inquirer@8.2.4",
   },
   {
     type: "input",

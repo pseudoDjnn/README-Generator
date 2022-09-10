@@ -1,5 +1,5 @@
 # README Generator
-  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![license](https://img.shields.io/badge/license-None-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
@@ -34,7 +34,7 @@
     To install dependencies,  run:
 
     ```
-    npm i inquirer
+    npm i inquirer@8.2.4
     ```
 
   ## Usage
@@ -57,18 +57,17 @@
     
     pseudoDjnn
 
-    https://github.com/pseudoDjnn/
     
-  ## Questions
-    
+    ## Questions
+
     Wanting to understand more about this repo?
     
-    Contact me at lavahrexes@gmail.com
+    Contact me at https://github.com/pseudoDjnn/ or at lavahrexes@gmail.com
     
   
     ## License
 
-    Copyright @ MIT.  All Rights Reserved.
+    Copyright @ None.  All Rights Reserved.
 
-    Licensed under the MIT license.
+    Licensed under the None license.
     
