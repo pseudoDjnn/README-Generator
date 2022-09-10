@@ -1,10 +1,10 @@
-# test
-  ![GitHub license](https://img.shields.io/badge/license-MIT,Other,GPLv2,Apache,GPLv3,BSD 3-clause,Unlicense,BSD 2-clause,LGPLv3,AGPv3-yellowgreen.svg)
+# README Generator
+  [![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)]
 
   ## Description
   * What is the purpose of this repository?<br/>
 
-  test
+  An introduction repo for ES6, node, and Javascript  allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
 
   ## Table of Contents
 
@@ -17,43 +17,43 @@
 * [License](#license)
 
   
-  # Installation (Dependencies) 💻
+  # Installation (Dependencies)
 
     To install dependencies,  run:
 
     ```
-    npm i
+    inquirer
     ```
 
   ## Usage
 
-    test
+    node index.js
 
   ## Test
 
     To run this program, use the following command(s):
 
     ```
-    npm t
+    still testing...
     ```
 
     
     ## License
 
-    Copyright @ MIT,Other,GPLv2,Apache,GPLv3,BSD 3-clause,Unlicense,BSD 2-clause,LGPLv3,AGPv3.  All Rights Reserved.
+    Copyright @ MIT.  All Rights Reserved.
 
-    Licensed under the MIT,Other,GPLv2,Apache,GPLv3,BSD 3-clause,Unlicense,BSD 2-clause,LGPLv3,AGPv3 license.
+    Licensed under the MIT license.
     
     
   ## Contributors
 
-    me
+    
 
-    [test](https://github.com/test/)
+    [pseudoDjnn](https://github.com/pseudoDjnn/)
 
   ## Questions
 
     Wanting to understand more about this project repo?
 
-    Contact me at test@test.com
+    Contact me at lavahrexes@gmail.com
 

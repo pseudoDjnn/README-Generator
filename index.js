@@ -55,15 +55,12 @@ const questions = [
     message: "Please pick a license if any of the following are used:",
     choices: [
       "MIT",
-      "Other",
-      "GPLv2",
-      "Apache",
-      "GPLv3",
-      "BSD 3-clause",
-      "Unlicense",
-      "BSD 2-clause",
-      "LGPLv3",
-      "AGPv3",
+      "Boost1.0",
+      "Apache2.0",
+      "GPL3.0",
+      "BSD3.0",
+      "BSD2.0",
+      "None",
     ],
     validate: (choiceInput) => {
       if (choiceInput) {
@@ -78,13 +75,13 @@ const questions = [
     type: "input",
     name: "dependencies",
     message: "List use of dependencies:",
-    default: "npm i",
+    default: "inquirer",
   },
   {
     type: "input",
     name: "test",
-    message: "CLI prompt to test:",
-    default: "npm t",
+    message: "Specifiy in prompt to unit test:",
+    default: "N/A",
   },
   {
     type: "input",
@@ -94,7 +91,8 @@ const questions = [
   {
     type: "input",
     name: "contributors",
-    message: "List contributors of this repo:",
+    message:
+      "List contributor's Github profile to be shown in this repository or leave blank to list your own:",
   },
 ];
 
