@@ -68,20 +68,20 @@ function generateMarkdown(data) {
     ${data.usage}
     \`\`\`
 
-  ## Test
+  # Test
 
 
     ${data.test}
     
     
-  ## Contributors
+  # Contributors
     
     ${data.contributors}
     
     ${data.username}
 
     
-    ## Questions
+  # Questions
 
     Wanting to understand more about this repo?
     

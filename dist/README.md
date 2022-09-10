@@ -1,5 +1,5 @@
 # README Generator
-  ![license](https://img.shields.io/badge/license-None-yellowgreen.svg)
+  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
@@ -45,20 +45,20 @@
     node index
     ```
 
-  ## Test
+  # Test
 
 
     N/A
     
     
-  ## Contributors
+  # Contributors
     
     
     
     pseudoDjnn
 
     
-    ## Questions
+  # Questions
 
     Wanting to understand more about this repo?
     
@@ -67,7 +67,7 @@
   
     ## License
 
-    Copyright @ None.  All Rights Reserved.
+    Copyright @ MIT.  All Rights Reserved.
 
-    Licensed under the None license.
+    Licensed under the MIT license.
     
