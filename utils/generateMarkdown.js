@@ -77,9 +77,9 @@ function generateMarkdown(data) {
     
     ${data.contributors}
     
-    [${data.username}]
-    
-    (https://github.com/${data.username}/)
+    ${data.username}
+
+    https://github.com/${data.username}/
     
   ## Questions
     
