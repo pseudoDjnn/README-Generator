@@ -50,7 +50,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-    * ${renderLicenseLink(data.license)}
+    ${renderLicenseLink(data.license)}
   
   # Installation (Dependencies)
 
@@ -71,21 +71,21 @@ function generateMarkdown(data) {
     \`\`\`
     ${data.test}
     \`\`\`
-
-    ${renderLicenseSection(data.license)}
+    
     
   ## Contributors
-
+    
     ${data.contributors}
-
+    
     [${data.username}](https://github.com/${data.username}/)
-
+    
   ## Questions
-
+    
     Wanting to understand more about this project repo?
-
+    
     Contact me at ${data.email}
-
+    
+  ${renderLicenseSection(data.license)}
 `;
 }
 

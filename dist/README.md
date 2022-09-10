@@ -8,7 +8,7 @@
 
   ## Table of Contents
 
-    * 
+    
     
 * [Installation](#installation)
 
@@ -48,24 +48,24 @@
     ```
     test
     ```
-
     
+    
+  ## Contributors
+    
+    
+    
+    [test](https://github.com/test/)
+    
+  ## Questions
+    
+    Wanting to understand more about this project repo?
+    
+    Contact me at test
+    
+  
     ## License
 
     Copyright @ MIT.  All Rights Reserved.
 
     Licensed under the MIT license.
     
-    
-  ## Contributors
-
-    
-
-    [test](https://github.com/test/)
-
-  ## Questions
-
-    Wanting to understand more about this project repo?
-
-    Contact me at test
-
