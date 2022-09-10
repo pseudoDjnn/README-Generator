@@ -75,12 +75,12 @@ const questions = [
     type: "input",
     name: "dependencies",
     message: "List use of dependencies:",
-    default: "inquirer",
+    default: "npm i inquirer",
   },
   {
     type: "input",
     name: "test",
-    message: "Specifiy in prompt to unit test:",
+    message: "Specifiy if you are unit testing still:",
     default: "N/A",
   },
   {

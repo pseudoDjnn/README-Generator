@@ -1,12 +1,12 @@
-# test
-  [![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)]
+# README Generator
+  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
 
-  test
+  An introduction repo for ES6, node, and Javascript  allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
 
-  ## Table of Contents
+  # Table of Contents
 
     
     
@@ -29,38 +29,40 @@
 
     
   
-  # Installation (Dependencies)
+  ## Installation (Dependencies)
 
     To install dependencies,  run:
 
     ```
-    inquirer
+    npm i inquirer
     ```
 
   ## Usage
 
-    test
+    node index
 
   ## Test
 
     To run this program, use the following command(s):
 
     ```
-    test
+    tested
     ```
     
     
   ## Contributors
     
+    Alexander Havers
     
+    [pseudoDjnn]
     
-    [test](https://github.com/test/)
+    (https://github.com/pseudoDjnn/)
     
   ## Questions
     
     Wanting to understand more about this project repo?
     
-    Contact me at test
+    Contact me at lavahrexes@gmail.com
     
   
     ## License
