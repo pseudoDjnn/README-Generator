@@ -62,15 +62,16 @@ function generateMarkdown(data) {
 
   ## Usage
 
-    ${data.usage}
-
-  ## Test
-
     To run this program, use the following command(s):
 
     \`\`\`
-    ${data.test}
+    ${data.usage}
     \`\`\`
+
+  ## Test
+
+
+    ${data.test}
     
     
   ## Contributors
@@ -83,7 +84,7 @@ function generateMarkdown(data) {
     
   ## Questions
     
-    Wanting to understand more about this project repo?
+    Wanting to understand more about this repo?
     
     Contact me at ${data.email}
     

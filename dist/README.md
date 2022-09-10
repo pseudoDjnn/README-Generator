@@ -39,28 +39,29 @@
 
   ## Usage
 
-    node index
-
-  ## Test
-
     To run this program, use the following command(s):
 
     ```
-    tested
+    node index
     ```
+
+  ## Test
+
+
+    N/A
     
     
   ## Contributors
     
-    Alexander Havers
     
-    [pseudoDjnn]
     
-    (https://github.com/pseudoDjnn/)
+    pseudoDjnn
+
+    https://github.com/pseudoDjnn/
     
   ## Questions
     
-    Wanting to understand more about this project repo?
+    Wanting to understand more about this repo?
     
     Contact me at lavahrexes@gmail.com
     
