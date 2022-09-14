@@ -1,10 +1,10 @@
 # README Generator
-  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![license](https://img.shields.io/badge/license-None-yellowgreen.svg)
 
   ## Description
   * What is the purpose of this repository?<br/>
 
-  An introduction repo for ES6, node, and Javascript  allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
+  An introduction repo for ES6, node, and Javascript allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
 
   # Table of Contents
 
@@ -67,7 +67,7 @@
   
     ## License
 
-    Copyright @ MIT.  All Rights Reserved.
+    Copyright @ None.  All Rights Reserved.
 
-    Licensed under the MIT license.
+    Licensed under the None license.
     
