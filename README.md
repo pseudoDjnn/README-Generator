@@ -10,7 +10,9 @@ An introduction repo for ES6, node, and Javascript allowing the user to streamli
 
 ## Sample README
 
-[readme_link](./dist/README.md)
+[readme_sample_link](./dist/README.md)
+
+[readme_video](https://drive.google.com/file/d/11T406o8iZsttUVzJM-eIOyHx-EzWVXLr/view)
 
 ![readme_generator](https://user-images.githubusercontent.com/105378214/189463698-f5ebd0c2-8f95-43c8-94e0-c652249e2c1c.png)
 
