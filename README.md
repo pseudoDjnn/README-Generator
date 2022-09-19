@@ -1,77 +1,60 @@
 # README Generator
-  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
-  ## Description
-  * What is the purpose of this repository?<br/>
+![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
-  An introduction repo for ES6, node, and Javascript  allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
-  
-  
-  ![readme_generator](https://user-images.githubusercontent.com/105378214/189463698-f5ebd0c2-8f95-43c8-94e0-c652249e2c1c.png)
+## Description
 
+- What is the purpose of this repository?<br/>
 
-  # Table of Contents
+An introduction repo for ES6, node, and Javascript allowing the user to streamline the ability to create a readme markdown file to use for Github repos and all future Github projects.
 
-    
-    
-* [Installation](#installation)
+## Sample README
 
-    
-* [Usage](#usage)
+[readme_link](./dist/README.md)
 
-    
-* [Test](#test)
+![readme_generator](https://user-images.githubusercontent.com/105378214/189463698-f5ebd0c2-8f95-43c8-94e0-c652249e2c1c.png)
 
-    
-* [Contributors](#contributors)
+# Table of Contents
 
-    
-* [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Test](#test)
+- [Contributors](#contributors)
+- [Questions](#questions)
+- [License](#license)
 
-    
-* [License](#license)
-
-    
-  
   ## Installation (Dependencies)
 
-    To install dependencies,  run:
+  To install dependencies, run:
 
-    ```
-    npm i inquirer@8.2.4
-    ```
+  ```
+  npm i inquirer@8.2.4
+  ```
 
   ## Usage
 
-    To run this program, use the following command(s):
+  To run this program, use the following command(s):
 
-    ```
-    node index
-    ```
+  ```
+  node index
+  ```
 
   # Test
 
+  N/A
 
-    N/A
-    
-    
   # Contributors
-    
-    
-    
-    pseudoDjnn
 
-    
+  pseudoDjnn
+
   # Questions
 
-    Wanting to understand more about this repo?
-    
-    Contact me at https://github.com/pseudoDjnn/ or at lavahrexes@gmail.com
-    
-  
-    ## License
+  Wanting to understand more about this repo?
 
-    Copyright @ MIT.  All Rights Reserved.
+  Contact me at https://github.com/pseudoDjnn/ or at lavahrexes@gmail.com
 
-    Licensed under the MIT license.
-    
+  ## License
+
+  Copyright @ MIT. All Rights Reserved.
+
+  Licensed under the MIT license.
